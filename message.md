@@ -33,11 +33,9 @@
 
 最后请各位业主抽空阅读以下两篇政策文件。
 
-
-
-
-
 ![1111][1]
+![此处输入图片的描述][2]
 
 
-  [1]: http://web.mail.tom.com/webmail-static/images/tom.com/tommail_logo.png
+  [1]: https://raw.githubusercontent.com/dingnanchuanyu/weiquan/master/%E6%88%90%E9%83%BD%E5%B8%82%E4%B8%9A%E4%B8%BB%E5%A4%A7%E4%BC%9A%E6%B4%BB%E5%8A%A8%E8%A7%84%E5%88%99.png
+  [2]: https://raw.githubusercontent.com/dingnanchuanyu/weiquan/master/%E7%89%A9%E4%B8%9A%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B.png
